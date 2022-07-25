@@ -46,11 +46,11 @@ Below we give the user to see the composition of electricity production and CO2 
 **USA vs China**
 
 <p align="center">
-<img src="https://github.com/berserkus/Solar-Potential/blob/main/output/images/us_china_production">
+<img src="https://github.com/berserkus/Solar-Potential/blob/main/output/images/us_china_production.jpg">
 </p>
 
 
 
 <p align="center">
-<img src="https://github.com/berserkus/Solar-Potential/blob/main/output/images/us_china_gdp">
+<img src="https://github.com/berserkus/Solar-Potential/blob/main/output/images/us_china_gdp.jpg">
 </p>
