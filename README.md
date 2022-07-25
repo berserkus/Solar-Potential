@@ -22,3 +22,13 @@ Main assumptions are:
 - Find the most poluting countries (per capita)
 - Find the countries with best solar potential relative to their polution
 - Assess the cost of electricity in those countries and the $ potential of transitioning to solar
+
+### Polution analysis
+
+The database provides the timeseries of CO2 polution by country for a number of years. After cleaning and data analysis it seems that there is more complete data since 1985.
+
+The chart below shows the development of CO2 emissions in some of the largest poluter economies:
+
+<p align="center">
+<img src="https://github.com/berserkus/Solar-Potential/blob/main/output/images/polute_series.png">
+</p>
