@@ -32,3 +32,25 @@ The chart below shows the development of CO2 emissions in some of the largest po
 <p align="center">
 <img src="https://github.com/berserkus/Solar-Potential/blob/main/output/images/polute_series.png">
 </p>
+
+These same countries look very different when viewed as CO2 emissions per capita:
+
+<p align="center">
+<img src="https://github.com/berserkus/Solar-Potential/blob/main/output/images/polute_per_capita.png">
+</p>
+
+### Country analysis
+
+Below we give the user to see the composition of electricity production and CO2 emissions for any country of his choosing.
+
+**USA vs China**
+
+<p align="center">
+<img src="https://github.com/berserkus/Solar-Potential/blob/main/output/images/us_china_production">
+</p>
+
+
+
+<p align="center">
+<img src="https://github.com/berserkus/Solar-Potential/blob/main/output/images/us_china_gdp">
+</p>
