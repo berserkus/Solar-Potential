@@ -79,5 +79,36 @@ Countries with high electricity costs and high solar potential are our targets.
 <img src="https://github.com/berserkus/Solar-Potential/blob/main/output/images/top_potential.png">
 </p>
 
-## Web scraping
+Maldives to Israel - all these countries provide an opportunity to produce revenue of at least $200 per square meter per year. The retail cost of solar panels is roughly $100 per square meter. If you consider the installation and maintenance cost, that might double the cost. But it still means that your investment pays back in a year!
+
+
+**So who might be interested in this?**
+
+## Let's do some Web scraping!
+
+Now let's look at the companies that are producing the solar panels - they are the target recipients of our research! :)
+
+In order to obtain a list of producers and their information, I have scraped the Wikipedia page
+
+https://en.wikipedia.org/wiki/List_of_photovoltaics_companies
+
+Every table containing producer information is scraped and the links collected.
+
+<p align="center">
+<img src="https://github.com/berserkus/Solar-Potential/blob/main/output/images/wiki_table1.jpg">
+</p>
+
+The code then goes through the list of producers and their links and collects the infromation from within their respective Wikipedia pages
+
+Like the one below:
+
+<p align="center">
+<img src="https://github.com/berserkus/Solar-Potential/blob/main/output/images/wiki_table2.jpg">
+</p>
+
+After collecting the data on each company and cleaning the information, I export the table into excel.
+
+<p align="center">
+<img src="https://github.com/berserkus/Solar-Potential/blob/main/output/images/excel_export.jpg">
+</p>
 
