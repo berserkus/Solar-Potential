@@ -79,3 +79,5 @@ Countries with high electricity costs and high solar potential are our targets.
 <img src="https://github.com/berserkus/Solar-Potential/blob/main/output/images/top_potential.png">
 </p>
 
+## Web scraping
+
