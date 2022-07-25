@@ -54,3 +54,28 @@ Below we give the user to see the composition of electricity production and CO2 
 <p align="center">
 <img src="https://github.com/berserkus/Solar-Potential/blob/main/output/images/us_china_gdp.jpg">
 </p>
+
+### Poluters in 2019
+
+Given the complete year end dataset ends in 2020 - which was a year with very low CO2 emissions, I prefer to use 2019 as the year for comparison.
+
+Below are the top poluters per capita sorted from highest to lowest:
+
+<p align="center">
+<img src="https://github.com/berserkus/Solar-Potential/blob/main/output/images/top_poluters.png">
+</p>
+
+The data is complemented by solar potential figures - calculated as the total practical potential per day per square meter across the long term
+
+<p align="center">
+<img src="https://github.com/berserkus/Solar-Potential/blob/main/output/images/top_cost.png">
+</p>
+
+Countries with high electricity costs and high solar potential are our targets.
+
+**Profit potential**
+
+<p align="center">
+<img src="https://github.com/berserkus/Solar-Potential/blob/main/output/images/top_potential.png">
+</p>
+
