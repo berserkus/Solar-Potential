@@ -91,6 +91,10 @@ Maldives to Israel - all these countries provide an opportunity to produce reven
 
 ## Let's do some Web scraping!
 
+<p align="center">
+<img src="https://s3.amazonaws.com/businessinsider.mx/wp-content/uploads/2020/11/27172446/Wikipedia.jpg">
+</p>
+
 Now let's look at the companies that are producing the solar panels - they are the target recipients of our research! :)
 
 In order to obtain a list of producers and their information, I have scraped the Wikipedia page
