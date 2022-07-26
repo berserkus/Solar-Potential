@@ -66,7 +66,9 @@ Below are the top poluters per capita sorted from highest to lowest:
 <img src="https://github.com/berserkus/Solar-Potential/blob/main/output/images/top_poluters.png">
 </p>
 
-The data is complemented by solar potential figures - calculated as the total practical potential per day per square meter across the long term
+Considering that in most of the developped countries the industrial companies will have to buy CO2 credits - high polution might become expensive.
+
+I complement the data by solar potential figures - calculated as the total practical potential per day per square meter across the long term:
 
 <p align="center">
 <img src="https://github.com/berserkus/Solar-Potential/blob/main/output/images/top_cost.png">
