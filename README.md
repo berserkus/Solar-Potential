@@ -79,8 +79,11 @@ Countries with high electricity costs and high solar potential are our targets.
 <img src="https://github.com/berserkus/Solar-Potential/blob/main/output/images/top_potential.png">
 </p>
 
-Maldives to Israel - all these countries provide an opportunity to produce revenue of at least $200 per square meter per year. The retail cost of solar panels is roughly $100 per square meter. If you consider the installation and maintenance cost, that might double the cost. But it still means that your investment pays back in a year!
+Maldives to Israel - all these countries provide an opportunity to produce revenue of at least $200 per square meter per year. The retail cost of solar panels is roughly $100 per square meter. If you consider the installation and maintenance cost, that might double the cost. But it still means that **your investment pays back in a year!**
 
+<p align="center">
+<img src=https://img.freepik.com/premium-vector/sun-mascot-illustration-rich-man-holding-money-sack_309278-7446.jpg?w=2000" width="700" height="400">
+</p>
 
 **So who might be interested in this?**
 
@@ -112,3 +115,8 @@ After collecting the data on each company and cleaning the information, I export
 <img src="https://github.com/berserkus/Solar-Potential/blob/main/output/images/excel_export.jpg">
 </p>
 
+***Now let's make some calls and share the business ideas!***
+
+<p align="center">
+<img src="http://gif-free.com/uploads/posts/2017-04/1491130956_obama-making-call.gif">
+</p>
