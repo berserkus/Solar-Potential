@@ -84,7 +84,7 @@ Maldives to Israel - all these countries provide an opportunity to produce reven
 
 ### Solar money!
 <p align="center">
-<img src=https://github.com/berserkus/Solar-Potential/blob/main/output/images/sun_money.jpg">
+<img src="https://github.com/berserkus/Solar-Potential/blob/main/output/images/sun_money.jpg">
 </p>
 
 **So who might be interested in this?**
