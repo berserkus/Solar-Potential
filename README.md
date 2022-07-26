@@ -17,11 +17,12 @@ In order to do that I will use the following data sources:
 
 - **Web scraped data from Wikipedia** on the solar panel manufacturers
 
-Main assumptions are:
+Main goals and hypotheses are:
 
-- Find the most poluting countries (per capita)
-- Find the countries with best solar potential relative to their polution
-- Assess the cost of electricity in those countries and the $ potential of transitioning to solar
+- **Find the most poluting countries (per capita)**
+- **Find the countries with best solar potential relative to their polution**
+- **Assess the cost of electricity in those countries and the $ potential of transitioning to solar**
+- **Find companies that would be most interested in this analysis**
 
 ### Polution analysis
 
