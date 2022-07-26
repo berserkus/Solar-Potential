@@ -9,13 +9,13 @@ My report provides an analysis of the curent electricity production by country a
 
 In order to do that I will use the following data sources:
 
-- Electricity production by source - Our World in Data https://ourworldindata.org/energy-mix
+- **Electricity production by source** - Our World in Data https://ourworldindata.org/energy-mix
 
-- CO2 emmissions by country - Our World in Data https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions
+- **CO2 emmissions by country** - Our World in Data https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions
 
-- Solar Photovoltaic potential by country - The World Bank https://datacatalog.worldbank.org/search/dataset/0038379
+- **Solar Photovoltaic potential by country** - The World Bank https://datacatalog.worldbank.org/search/dataset/0038379
 
-- Web scraped data from Wikipedia on the solar panel manufacturers
+- **Web scraped data from Wikipedia** on the solar panel manufacturers
 
 Main assumptions are:
 
